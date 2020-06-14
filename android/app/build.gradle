@@ -33,7 +33,7 @@ android {
 
     defaultConfig {
 
-        applicationId "co.appbrewery.bmicalculator"
+        applicationId "co.example.bmicalculator"
         minSdkVersion 16
         targetSdkVersion 29
         versionCode flutterVersionCode.toInteger()
